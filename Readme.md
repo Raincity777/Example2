@@ -1,3 +1,3 @@
 
-Beau and the study session
-beau tutoring
+# Beau and the study session
+- beau tutoring
